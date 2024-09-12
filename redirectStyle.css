@@ -1,0 +1,49 @@
+body{
+    background: #0b4655;
+    margin: 70px 50px;
+    color:#ffffff;
+    font-family: "Arial", Helvetica, sans-serif;
+    font-weight:50;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+
+*{
+    box-sizing: border-box;
+}
+
+.image-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.image2-container{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.image3-container {
+    text-align: center;
+    margin-bottom: 150px;
+    transform: translateX(-5px);
+    
+}
+
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+
