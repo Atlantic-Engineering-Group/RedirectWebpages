@@ -44,6 +44,19 @@ h2{
     height: auto;
 }
 
+/* Style for normal state */
+a {
+    color: #33C5F3; 
+    text-decoration: none; 
+}
+
+/* Style for link when hovered over */
+a:hover {
+    color: rgba(33, 246, 254, 0.693); 
+    text-decoration: underline; 
+}
+
+
 @media (max-width: 320px) {
     .image-container {
         padding: 5px;
